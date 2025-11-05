@@ -1,1 +1,1 @@
-export const JWT_SECRET = "nafia13579"
+export const JWT_SECRET = "ammarr13579"
